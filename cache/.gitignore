@@ -1,0 +1,22 @@
+# Instructor / reference solutions (not distributed to students)
+cache_solution.py
+perfect_solution.py
+solutions/
+config_test_backup.py
+
+# Local test copies
+cache_student_test.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.env
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
