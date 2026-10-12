@@ -1,4 +1,4 @@
-# Computer Organization Projects
+# Computer Organization Projects AKA legv8-computer-architecture
 
 Four Python projects that build up the pieces of a simple LEGv8 computer, from the
 encoding of instructions down to the cache.
